@@ -28,16 +28,16 @@
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\layout\\design_layout_tab_text.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\layout\\notification_template_lines_media.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\layout\\notification_template_lines_media.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\layout\\design_layout_tab_text.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
@@ -60,12 +60,12 @@
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\layout\\design_navigation_item_header.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
