@@ -1,562 +1,842 @@
 [
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_btn_radio_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_bg.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\espirito_santo.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\espirito_santo.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_bg_low.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_ratingbar_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/santa_catarina.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/santa_catarina.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mato_grosso.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\mato_grosso.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/parana.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/parana.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\espirito_santo.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\espirito_santo.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_btn_colored_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goias.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\goias.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\distrito_federal.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\distrito_federal.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_ic_menu_overflow_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\espirito_santo.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\espirito_santo.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\para.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\para.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/para.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/para.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/maranhao.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/maranhao.png"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\santa_catarina.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\santa_catarina.png"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\design_password_eye.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/rio_grande_do_norte.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/rio_grande_do_norte.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\distrito_federal.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\distrito_federal.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/rio_grande_do_sul.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/rio_grande_do_sul.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/bahia.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/bahia.png"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rio_grande_do_norte.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\rio_grande_do_norte.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_vector_test.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\espirito_santo.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\espirito_santo.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/espirito_santo.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/espirito_santo.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\piaui.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\piaui.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\design_password_eye.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
-        "source": "/home/douglimar/.android/build-cache/f643f565bb50866043015ee77c4b5e651a975cb8/output/res/drawable/design_snackbar_background.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/mato_grosso_do_sul.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/mato_grosso_do_sul.png"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\para.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\para.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/roraima.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/roraima.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bahia.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\bahia.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rio_grande_do_norte.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\rio_grande_do_norte.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\parana.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\parana.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/rio_de_janeiro.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/rio_de_janeiro.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\acre.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\acre.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\parana.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\parana.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_ratingbar_indicator_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\maranhao.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\maranhao.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\minas_gerais.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\minas_gerais.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/distrito_federal.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/distrito_federal.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/notification_icon_background.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/alagoas.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/alagoas.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/tocantins.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/tocantins.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/goias.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/goias.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_dialog_material_background.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roraima.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\roraima.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/paraiba.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/paraiba.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\f643f565bb50866043015ee77c4b5e651a975cb8\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_icon_background.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sergipe.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\sergipe.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_ic_search_api_material.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mato_grosso_do_sul.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\mato_grosso_do_sul.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/acre.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/acre.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/amazonas.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/amazonas.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_ic_voice_search_api_material.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_edit_text_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goias.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\goias.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amapa.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\amapa.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/pernambuco.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/pernambuco.png"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bahia.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\bahia.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
-        "source": "/home/douglimar/.android/build-cache/f643f565bb50866043015ee77c4b5e651a975cb8/output/res/drawable/navigation_empty_icon.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paraiba.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\paraiba.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sao_paulo.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\sao_paulo.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\para.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\para.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_btn_check_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/sergipe.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/sergipe.png"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/notification_tile_bg.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\f643f565bb50866043015ee77c4b5e651a975cb8\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tocantins.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\tocantins.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/home/douglimar/.android/build-cache/f643f565bb50866043015ee77c4b5e651a975cb8/output/res/drawable/design_fab_background.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\santa_catarina.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\santa_catarina.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\maranhao.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\maranhao.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amapa.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\amapa.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amazonas.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\amazonas.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
-        "source": "/home/douglimar/.android/build-cache/f643f565bb50866043015ee77c4b5e651a975cb8/output/res/drawable/design_bottom_navigation_item_background.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\piaui.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\piaui.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amazonas.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\amazonas.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/minas_gerais.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/minas_gerais.png"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\parana.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\parana.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pernambuco.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\pernambuco.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/piaui.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/piaui.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roraima.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\roraima.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ceara.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\ceara.png"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amapa.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\amapa.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/sao_paulo.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/sao_paulo.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rio_grande_do_sul.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\rio_grande_do_sul.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/mato_grosso.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/mato_grosso.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roraima.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\roraima.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sergipe.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\sergipe.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rio_grande_do_sul.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\rio_grande_do_sul.png"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sergipe.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\sergipe.png"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\acre.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\acre.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mato_grosso_do_sul.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\mato_grosso_do_sul.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\acre.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\acre.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_text_cursor_material.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pernambuco.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\pernambuco.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/rondonia.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/rondonia.png"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rio_de_janeiro.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\rio_de_janeiro.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\santa_catarina.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\santa_catarina.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\design_fab_background.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rio_de_janeiro.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\rio_de_janeiro.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_ic_ab_back_material.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mato_grosso.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\mato_grosso.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\minas_gerais.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\minas_gerais.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\distrito_federal.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\distrito_federal.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alagoas.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\alagoas.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bahia.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\bahia.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/notification_bg_low.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paraiba.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\paraiba.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mato_grosso.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\mato_grosso.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/amapa.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/amapa.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\piaui.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\piaui.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_textfield_search_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sergipe.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\sergipe.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/ceara.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/res/drawable/ceara.png"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amazonas.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\amazonas.png"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_ic_clear_material.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\santa_catarina.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\santa_catarina.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\navigation_empty_icon.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
-        "source": "/home/douglimar/.android/build-cache/f643f565bb50866043015ee77c4b5e651a975cb8/output/res/drawable/design_password_eye.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\parana.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\parana.png"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amapa.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\amapa.png"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\para.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\para.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_ic_go_search_api_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tocantins.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\tocantins.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\f643f565bb50866043015ee77c4b5e651a975cb8\\output\\res\\drawable\\design_password_eye.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rondonia.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\rondonia.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rondonia.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\rondonia.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bahia.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\bahia.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alagoas.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\alagoas.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/notification_bg.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pernambuco.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\pernambuco.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paraiba.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\paraiba.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tocantins.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\tocantins.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\acre.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\acre.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\f643f565bb50866043015ee77c4b5e651a975cb8\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
-        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable/abc_vector_test.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rio_grande_do_sul.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\rio_grande_do_sul.png"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goias.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\goias.png"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sao_paulo.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\sao_paulo.png"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tocantins.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\tocantins.png"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\maranhao.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\maranhao.png"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\piaui.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\piaui.png"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mato_grosso_do_sul.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\mato_grosso_do_sul.png"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ceara.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\ceara.png"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rio_grande_do_sul.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\rio_grande_do_sul.png"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mato_grosso.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\mato_grosso.png"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\f643f565bb50866043015ee77c4b5e651a975cb8\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\minas_gerais.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\minas_gerais.png"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pernambuco.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\pernambuco.png"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rondonia.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\rondonia.png"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rio_de_janeiro.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\rio_de_janeiro.png"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\minas_gerais.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\minas_gerais.png"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\maranhao.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\maranhao.png"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roraima.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\roraima.png"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sao_paulo.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\sao_paulo.png"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goias.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\goias.png"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amazonas.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\amazonas.png"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rio_de_janeiro.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\rio_de_janeiro.png"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ceara.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\ceara.png"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sao_paulo.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\sao_paulo.png"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alagoas.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\alagoas.png"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ceara.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\ceara.png"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rio_grande_do_norte.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\rio_grande_do_norte.png"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rio_grande_do_norte.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\rio_grande_do_norte.png"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\distrito_federal.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\distrito_federal.png"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rondonia.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\rondonia.png"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alagoas.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\alagoas.png"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paraiba.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\paraiba.png"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mato_grosso_do_sul.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\BrazillianFlags\\app\\src\\main\\res\\drawable\\mato_grosso_do_sul.png"
     }
 ]

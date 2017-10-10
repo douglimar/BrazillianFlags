@@ -30,6 +30,7 @@
             android:name="br.com.ddmsoftware.brazillianflags.FlagStudiesActivity"
             android:label="@string/title_activity_flag_studies"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="br.com.ddmsoftware.brazillianflags.QuizActivity" />
     </application>
 
 </manifest>

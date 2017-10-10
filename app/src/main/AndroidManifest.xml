@@ -19,7 +19,8 @@
         <activity
             android:name=".FlagStudiesActivity"
             android:label="@string/title_activity_flag_studies"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".QuizActivity"></activity>
     </application>
 
 </manifest>
