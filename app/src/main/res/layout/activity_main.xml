@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:orientation="vertical"
     android:layout_height="match_parent"
+    android:gravity="center_vertical"
     tools:context="br.com.ddmsoftware.brazillianflags.MainActivity">
 
     <TextView
@@ -17,18 +18,22 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
+        android:layout_margin="3dp"
         android:id="@+id/btnFlagStudies"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Estudar bandeiras"
+        android:background="@color/colorLightBlue"
         tools:layout_editor_absoluteX="149dp"
         tools:layout_editor_absoluteY="271dp" />
 
     <Button
+        android:layout_margin="3dp"
         android:id="@+id/btnQuiz"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Testar conhecimento"
+        android:background="@color/colorLightBlue"
         tools:layout_editor_absoluteX="148dp"
         tools:layout_editor_absoluteY="319dp" />
 

@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         btnFlagStudies.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(MainActivity.this, FlagStudiesActivity.class);
+                Intent intent = new Intent(MainActivity.this, ListOfStatesActivity.class);
                 startActivity(intent);
             }
         });

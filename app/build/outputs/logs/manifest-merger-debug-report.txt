@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\BrazillianFlags\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from C:\Users\dmoraes\AndroidStudioProjects\BrazillianFlags\app\src\main\AndroidManifest.xml:2:1-23:12
 	package
 		ADDED from C:\Users\dmoraes\AndroidStudioProjects\BrazillianFlags\app\src\main\AndroidManifest.xml:3:5-49
 		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\BrazillianFlags\app\src\main\AndroidManifest.xml
@@ -14,19 +14,26 @@ ADDED from C:\Users\dmoraes\AndroidStudioProjects\BrazillianFlags\app\src\main\A
 		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\BrazillianFlags\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\BrazillianFlags\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\BrazillianFlags\app\src\main\AndroidManifest.xml:5:5-24:19
+ADDED from C:\Users\dmoraes\AndroidStudioProjects\BrazillianFlags\app\src\main\AndroidManifest.xml:5:5-21:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dmoraes\.android\build-cache\e3d7cf95900c2b693ff8d169dc1cce1a130e9802\output\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\f42d8296dd20005938e16b7b2956dcc647a3fe81\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\42932e882281112582d91c6069ab79774378c793\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\74586470e3d392e85a02cfc2a5a5a16b127a1146\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\f2e15fda155b8940647a27fa35c1781304202c3c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\dd0dc2981860f938169aee5d368c030cf2ea8762\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\dmoraes\.android\build-cache\4fa282aaf1b36aadf8603d8a56e38e65feeb210d\output\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\dmoraes\.android\build-cache\e7a2ee8db4040904b89c94150a80d07ee8ad7e53\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\dmoraes\.android\build-cache\9e6b43400ebf4f3ad5785c558cb44ed832fa4d45\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\dmoraes\.android\build-cache\b1f4fc7582f1906a8608003e0b7c522ed2e06bb9\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\dmoraes\.android\build-cache\877af10ca8e58bf1c32fe4f0e1b9e6c512031557\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\dmoraes\.android\build-cache\a42ecd85dd39533635f9542ab0889923a1f70315\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\dmoraes\.android\build-cache\05b1a8bd5e9794b63d32ec7880d9bc20198966ab\output\AndroidManifest.xml:19:5-21:19
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\3bac6ba44b47454e689897fbf20ff64535a22ff4\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\fa102a828b30353c328d7c2c38edb140098f04f6\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\c3a86a22c9683d69cfdf2e7a8d04a24b42374e8c\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\770bf61d1ce9bd8189bb0c3ea158abb3552b56b5\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\dd0dc2981860f938169aee5d368c030cf2ea8762\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\921d0629610e4d416a0c2c2405f5d28c1eaa778d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\770bf61d1ce9bd8189bb0c3ea158abb3552b56b5\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\0c4da80ec8bbe868563542ab4cbe976acecae6b3\output\AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from C:\Users\dmoraes\AndroidStudioProjects\BrazillianFlags\app\src\main\AndroidManifest.xml:8:9-41
@@ -54,18 +61,14 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\dmoraes\AndroidStudioProjects\BrazillianFlags\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
 		ADDED from C:\Users\dmoraes\AndroidStudioProjects\BrazillianFlags\app\src\main\AndroidManifest.xml:16:27-74
-activity#br.com.ddmsoftware.brazillianflags.FlagStudiesActivity
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\BrazillianFlags\app\src\main\AndroidManifest.xml:19:9-22:59
-	android:label
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\BrazillianFlags\app\src\main\AndroidManifest.xml:21:13-64
-	android:theme
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\BrazillianFlags\app\src\main\AndroidManifest.xml:22:13-56
-	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\BrazillianFlags\app\src\main\AndroidManifest.xml:20:13-48
 activity#br.com.ddmsoftware.brazillianflags.QuizActivity
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\BrazillianFlags\app\src\main\AndroidManifest.xml:23:9-59
+ADDED from C:\Users\dmoraes\AndroidStudioProjects\BrazillianFlags\app\src\main\AndroidManifest.xml:19:9-50
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\BrazillianFlags\app\src\main\AndroidManifest.xml:23:19-47
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\BrazillianFlags\app\src\main\AndroidManifest.xml:19:19-47
+activity#br.com.ddmsoftware.brazillianflags.ListOfStatesActivity
+ADDED from C:\Users\dmoraes\AndroidStudioProjects\BrazillianFlags\app\src\main\AndroidManifest.xml:20:9-67
+	android:name
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\BrazillianFlags\app\src\main\AndroidManifest.xml:20:19-55
 uses-sdk
 INJECTED from C:\Users\dmoraes\AndroidStudioProjects\BrazillianFlags\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dmoraes\.android\build-cache\e3d7cf95900c2b693ff8d169dc1cce1a130e9802\output\AndroidManifest.xml:5:5-7:41
@@ -74,13 +77,21 @@ MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\dmoraes\.a
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\42932e882281112582d91c6069ab79774378c793\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\74586470e3d392e85a02cfc2a5a5a16b127a1146\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\f2e15fda155b8940647a27fa35c1781304202c3c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\dd0dc2981860f938169aee5d368c030cf2ea8762\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\0340bf2f8978e42edd63da095e0245cc9c24cf6e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] C:\Users\dmoraes\.android\build-cache\8a43a7c32d06877c50b220df508a954679deed50\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\dmoraes\.android\build-cache\4fa282aaf1b36aadf8603d8a56e38e65feeb210d\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\dmoraes\.android\build-cache\e7a2ee8db4040904b89c94150a80d07ee8ad7e53\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\dmoraes\.android\build-cache\9e6b43400ebf4f3ad5785c558cb44ed832fa4d45\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\dmoraes\.android\build-cache\b1f4fc7582f1906a8608003e0b7c522ed2e06bb9\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\dmoraes\.android\build-cache\877af10ca8e58bf1c32fe4f0e1b9e6c512031557\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\dmoraes\.android\build-cache\a42ecd85dd39533635f9542ab0889923a1f70315\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\dmoraes\.android\build-cache\05b1a8bd5e9794b63d32ec7880d9bc20198966ab\output\AndroidManifest.xml:17:5-43
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\3bac6ba44b47454e689897fbf20ff64535a22ff4\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\fa102a828b30353c328d7c2c38edb140098f04f6\output\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\c3a86a22c9683d69cfdf2e7a8d04a24b42374e8c\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\770bf61d1ce9bd8189bb0c3ea158abb3552b56b5\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\dd0dc2981860f938169aee5d368c030cf2ea8762\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\0340bf2f8978e42edd63da095e0245cc9c24cf6e\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\921d0629610e4d416a0c2c2405f5d28c1eaa778d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\770bf61d1ce9bd8189bb0c3ea158abb3552b56b5\output\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\0c4da80ec8bbe868563542ab4cbe976acecae6b3\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\f42d8296dd20005938e16b7b2956dcc647a3fe81\output\AndroidManifest.xml:23:9-59
@@ -96,15 +107,45 @@ MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\dmoraes\.a
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\42932e882281112582d91c6069ab79774378c793\output\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\74586470e3d392e85a02cfc2a5a5a16b127a1146\output\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\f2e15fda155b8940647a27fa35c1781304202c3c\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\dd0dc2981860f938169aee5d368c030cf2ea8762\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\0340bf2f8978e42edd63da095e0245cc9c24cf6e\output\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\3bac6ba44b47454e689897fbf20ff64535a22ff4\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\fa102a828b30353c328d7c2c38edb140098f04f6\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\c3a86a22c9683d69cfdf2e7a8d04a24b42374e8c\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\770bf61d1ce9bd8189bb0c3ea158abb3552b56b5\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\dd0dc2981860f938169aee5d368c030cf2ea8762\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\0340bf2f8978e42edd63da095e0245cc9c24cf6e\output\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\921d0629610e4d416a0c2c2405f5d28c1eaa778d\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\770bf61d1ce9bd8189bb0c3ea158abb3552b56b5\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\0c4da80ec8bbe868563542ab4cbe976acecae6b3\output\AndroidManifest.xml:25:5-27:41
 	android:value
 		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\f42d8296dd20005938e16b7b2956dcc647a3fe81\output\AndroidManifest.xml:27:9-38
 	android:name
 		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\f42d8296dd20005938e16b7b2956dcc647a3fe81\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\dmoraes\.android\build-cache\4fa282aaf1b36aadf8603d8a56e38e65feeb210d\output\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\dmoraes\.android\build-cache\4fa282aaf1b36aadf8603d8a56e38e65feeb210d\output\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\dmoraes\.android\build-cache\4fa282aaf1b36aadf8603d8a56e38e65feeb210d\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\dmoraes\.android\build-cache\4fa282aaf1b36aadf8603d8a56e38e65feeb210d\output\AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\dmoraes\.android\build-cache\4fa282aaf1b36aadf8603d8a56e38e65feeb210d\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\dmoraes\.android\build-cache\4fa282aaf1b36aadf8603d8a56e38e65feeb210d\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\dmoraes\.android\build-cache\4fa282aaf1b36aadf8603d8a56e38e65feeb210d\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\dmoraes\.android\build-cache\4fa282aaf1b36aadf8603d8a56e38e65feeb210d\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\dmoraes\.android\build-cache\877af10ca8e58bf1c32fe4f0e1b9e6c512031557\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\dmoraes\.android\build-cache\877af10ca8e58bf1c32fe4f0e1b9e6c512031557\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\dmoraes\.android\build-cache\877af10ca8e58bf1c32fe4f0e1b9e6c512031557\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\dmoraes\.android\build-cache\877af10ca8e58bf1c32fe4f0e1b9e6c512031557\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\dmoraes\.android\build-cache\05b1a8bd5e9794b63d32ec7880d9bc20198966ab\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\dmoraes\.android\build-cache\05b1a8bd5e9794b63d32ec7880d9bc20198966ab\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\dmoraes\.android\build-cache\05b1a8bd5e9794b63d32ec7880d9bc20198966ab\output\AndroidManifest.xml:20:20-65

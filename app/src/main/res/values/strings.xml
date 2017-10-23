@@ -3,16 +3,16 @@
     <string name="title_activity_flag_studies">FlagStudiesActivity</string>
     <string name="acre_text">Acre</string>
     <string name="alagoas_text">Alagoas</string>
-    <string name="amapa_text">Amapa</string>
+    <string name="amapa_text">Amapá</string>
     <string name="amazonas_text">Amazonas</string>
     <string name="bahia_text">Bahia</string>
-    <string name="ceara_text">Ceara</string>
+    <string name="ceara_text">Ceará</string>
     <string name="distrito_federal_text">Distrito Federal</string>
     <string name="espirito_santo_text">Espirito Santo</string>
-    <string name="goias_text">Goias</string>
-    <string name="maranhao_text">Maranhao</string>
-    <string name="mato_grosso_text">Mato_Grosso</string>
-    <string name="mato_grosso_do_sul_text">Mato_Grosso_Do_Sul</string>
+    <string name="goias_text">Goiás</string>
+    <string name="maranhao_text">Maranhão</string>
+    <string name="mato_grosso_text">Mato Grosso</string>
+    <string name="mato_grosso_do_sul_text">Mato Grosso do Sul</string>
     <string name="minas_gerais_text">Minas Gerais</string>
     <string name="para_text">Para</string>
     <string name="parana_text">Parana</string>
@@ -45,6 +45,9 @@
     <string name="reset_quiz">Reiniciar Quiz</string>
     <string name="image_description">Imagem da bandeira atual do Quiz</string>
     <string name="default_region">Sudeste</string>
+    <string name="edtResultGrid_TotalAcertos">Total de Acerto</string>
+    <string name="tvResultGrid_Erros">Total de Erros</string>
+    <string name="voltar">Voltar</string>
 
 
 </resources>
