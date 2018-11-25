@@ -2,8 +2,11 @@
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorLightBlue">#3fabb5</color>
+    <color name="colorGray">#44ac73</color>
+    <color name="colorLightGray">#37cccccc</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="correct_answer">#108010</color>
     <color name="incorrect_answer">#FF0000</color>
+
 </resources>

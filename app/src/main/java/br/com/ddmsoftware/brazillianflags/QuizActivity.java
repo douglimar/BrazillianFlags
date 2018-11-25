@@ -2,43 +2,66 @@ package br.com.ddmsoftware.brazillianflags;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+
 import java.util.List;
 import java.util.Random;
 
 public class QuizActivity extends AppCompatActivity{
 
-    int iLoadedFlag;
-    int iCountErros, iCountAcertos = 0;
+    private int iLoadedFlag;
+    private int iCountErros;
+    private int iCountAcertos = 0;
 
-    Button btn1, btn2, btn3,btn4,btn5,btn6;
-    TextView tvResultado;
+    private Button btn1;
+    private Button btn2;
+    private Button btn3;
+    private Button btn4;
+    private Button btn5;
+    private Button btn6;
+    private TextView tvResultado;
 
-    TextView tvAcertos;
-    TextView tvErros;
+    private TextView tvAcertos;
+    private TextView tvErros;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_quiz);
 
-        Button btnVoltar = (Button) findViewById(R.id.btnQuiz_Back);
 
-        btnVoltar.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                finish();
-            }
-        });
-
-        tvAcertos = (TextView)findViewById(R.id.tvCountAcertos);
-        tvErros   = (TextView)findViewById(R.id.tvCountErros);
+        tvAcertos = findViewById(R.id.tvCountAcertos);
+        tvErros   = findViewById(R.id.tvCountErros);
 
         loadNextFlag();
 
+        // Create a AdView
+        // Load Advertisement Banner
+        AdView mAdView = findViewById(R.id.adViewQuiz);
+        AdRequest adRequest = new AdRequest.Builder().build();
+        mAdView.loadAd(adRequest);
+
+        // add back arrow to toolbar
+        if (getSupportActionBar() != null){
+            getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+            getSupportActionBar().setDisplayShowHomeEnabled(true);
+        }
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        // handle arrow click here
+        if (item.getItemId() == android.R.id.home) {
+            finish(); // close this activity and return to preview activity (if there is any)
+        }
+        return super.onOptionsItemSelected(item);
     }
 
     private void loadNextFlag(){
@@ -46,7 +69,7 @@ public class QuizActivity extends AppCompatActivity{
         final String[] aEstados = new String[6];
         final int[] aOriginalIndexImage = new int[6];
 
-        tvResultado = (TextView) findViewById(R.id.tvResultado);
+        tvResultado = findViewById(R.id.tvResultado);
 
         Random random = new Random();
 
@@ -54,19 +77,19 @@ public class QuizActivity extends AppCompatActivity{
         BrazilianFlags brazilianFlags = new BrazilianFlags();
         List<BrazilianFlags> tempList = brazilianFlags.loadAllFlags();
 
-        btn1 = (Button)findViewById(R.id.button);
-        btn2 = (Button)findViewById(R.id.button2);
-        btn3 = (Button)findViewById(R.id.button3);
-        btn4 = (Button)findViewById(R.id.button4);
-        btn5 = (Button)findViewById(R.id.button5);
-        btn6 = (Button)findViewById(R.id.button6);
+        btn1 = findViewById(R.id.button);
+        btn2 = findViewById(R.id.button2);
+        btn3 = findViewById(R.id.button3);
+        btn4 = findViewById(R.id.button4);
+        btn5 = findViewById(R.id.button5);
+        btn6 = findViewById(R.id.button6);
 
-        ImageView imageView = (ImageView)findViewById(R.id.imageView);
+        ImageView imageView = findViewById(R.id.imageView);
 
         for (int x = 0; x < iTotalBotoes; x++) {
 
             int i = random.nextInt(tempList.size());
-            aEstados[x] = tempList.get(i).estado.toString();
+            aEstados[x] = tempList.get(i).estado;
             aOriginalIndexImage[x] = i;
         }
 
@@ -171,5 +194,5 @@ public class QuizActivity extends AppCompatActivity{
         enableButtons(false);
 
         loadNextFlag();
-    };
+    }
 }

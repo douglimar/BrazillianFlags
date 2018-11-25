@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">BrazillianFlags</string>
-    <string name="title_activity_flag_studies">FlagStudiesActivity</string>
+    <string name="app_name">Quiz - Bandeiras Brasileiras</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1098336821710456/3513447606</string>
+    <string name="banner_ad_unit_TESTE" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
     <string name="acre_text">Acre</string>
     <string name="alagoas_text">Alagoas</string>
     <string name="amapa_text">Amapá</string>
@@ -28,26 +29,833 @@
     <string name="sergipe_text">Sergipe</string>
     <string name="sao_paulo_text">Sao_Paulo</string>
     <string name="tocantins_text">Tocantins</string>
-    <string name="action_settings">Settings</string>
 
-    <string name="settings_activity">Configurações</string>
-    <string name="number_of_choices">Numero de Escolhas</string>
-    <string name="number_of_choices_description">Exibe 3, 6 ou 9 botões</string>
-    <string name="world_regions">Regiões</string>
-    <string name="world_regions_description">Regiões para incluir no Quiz</string>
-    <string name="guess_state">Adivinhe o estado</string>
-    <string name="results">%1$d bandeiras, %2$.02f%% corretos</string>
-    <string name="incorrect_answer">Errado!</string>
-    <string name="default_region_message">Definida região Sudeste como a região padrão. Uma região deve ser selecionada</string>
-    <string name="restarting_quiz">Quiz será reiniciado com as novas configurações.</string>
-    <string name="ok">OK</string>
-    <string name="question">Questão %1$d de %2$d</string>
-    <string name="reset_quiz">Reiniciar Quiz</string>
-    <string name="image_description">Imagem da bandeira atual do Quiz</string>
-    <string name="default_region">Sudeste</string>
-    <string name="edtResultGrid_TotalAcertos">Total de Acerto</string>
-    <string name="tvResultGrid_Erros">Total de Erros</string>
-    <string name="voltar">Voltar</string>
+    <string name="acre_detalhes">
+        Lema: Nec Luceo Pluribus Impar 
+    (Não brilho diferente dos outros) \n
+    Gentílico: acriano, acriana; ou acreano, acreana.\n
+Localização\n
+ - Região:	Norte \n
+ - Estados limítrofes	Peru, Bolívia, Amazonas e Rondônia\n
+ - Regiões geográficas intermediárias\n
+ - Regiões geográficas imediatas\n
+ - Municípios\n
+Capital	 Rio Branco\n
+Área\n
+ - Total	164 123,040 km² (16º)\n
+População\n
+ - Estimativa	869 265 hab. (25º)\n
+ - Densidade	5,3 hab./km² (24º)\n
+Economia	2014\n
+ - PIB	R$  13.459.000 bilhões (25º)\n
+ - PIB per capita	R$ 17.034,15 (17º)\n
+Indicadores	2010/2015\n
+ - Esper. de vida (2015)	73,6 anos (15º)\n
+ - Mort. infantil (2015)	17,6‰ nasc. (8º)\n
+ - Alfabetização (2010)	84,8% (18º)\n
+ - IDH (2010)	0,663 (21º) – médio\n
+Fuso horário	UTC-5\n
+Clima	equatorial Af, Am\n
+Cód. ISO 3166-2	BR-AC\n
+Site governamental	http://www.ac.gov.br
+</string>
 
+    <string name="alagoas_detalhes">
+Lema: Ad bonum et prosperitatem	\n
+"Para o bem e para a prosperidade"	\n
+Hino: Hino de Alagoas		\n
+Gentílico: Alagoano		\n	\n
+Localização		\n
+ - Região	Nordeste	\n
+ - Estados limítrofes	Sergipe, Pernambuco e Bahia	\n
+ - Regiões geográficas intermediárias		\n
+ - Regiões geográficas imediatas		\n
+ - Municípios		\n
+Capital	 Maceió	\n	\n
+Área		\n
+ - Total	27 848,140 km² (25º) \n	\n
+População		\n
+ - Estimativa	3 322 820 hab. (16º)	\n
+ - Densidade	119,32 hab./km² (4º)	\n	\n
+Economia	2014	\n
+ - PIB	R$ 40.975.000 (20º)	\n
+ - PIB per capita	R$ 18.205,44 (25º)	\n	\n
+Indicadores	2010/2015	\n
+ - Esper. de vida (2015)	76,2 anos (23º)	\n
+ - Mort. infantil (2015)	14,45‰ nasc. (3º)	\n
+ - Alfabetização (2010)	78,9% (27º)	\n
+ - IDH (2010)	0,631 (27º) – médio [7	\n]
+Fuso horário	UTC−03:00	\n
+Clima	Tropical As	\n
+Cód. ISO 3166-2	BR-AL	\n
+Site governamental	http://www.governo.al.gov.br/
+
+    </string>
+
+    <string name="amazonas_detalhes">
+Localização	\n
+ - Região	Norte \n
+ - Estados limítrofes	Norte: Roraima; Leste: Pará; Sul: Mato Grosso e Rondônia; Sudoeste: Acre e ainda a Venezuela (N) e Colômbia e Peru (O)\n
+ - Regiões geográficas intermediárias	\n
+ - Regiões geográficas imediatas	\n
+ - Municípios	\n\n
+Capital	 Manaus\n\n
+Área	\n
+ - Total	1 559 146,876 km² (1º) \n\n
+População	\n
+ - Estimativa	4 080 611 hab. (13º)\n
+ - Densidade	2,62 hab./km² (26º)\n\n
+Economia	2015\n
+ - PIB	R$ 86.560 bilhões (15º)\n
+ - PIB per capita	R$ 21.978,95 (12º)\n\n
+Indicadores	2010/2015\n
+ - Esper. de vida(2015)	71,7 anos (22º)\n
+ - Mort. infantil(2015)	18,8‰ nasc. (6º)\n
+ - Alfabetização(2010)	90,4% (14º)\n
+ - IDH (2010)	0,674 (18º) – médio \n\n
+Fuso horário	UTC−04:00, UTC−5\n
+Clima	equatorial Am, Af\n
+Cód. ISO 3166-2	BR-AM\n
+Site governamental	http://www.amazonas.am.gov.br/\n
+</string>
+
+    <string name="amapa_detalhes">
+        Lema: Aqui começa o Brasil \n\n
+Gentílico: amapaense\n\n
+
+Localização\n
+ - Região	Norte\n
+ - Estados limítrofes	França (Guiana Francesa) (NO), Suriname (O) e Pará (SO).\n
+ - Regiões geográficas intermediárias	2\n
+ - Regiões geográficas imediatas	4\n
+ - Municípios	16\n\n
+Capital Macapá\n\n
+Área	 \n
+ - Total	142 828,521 km² (18º) \n\n
+População	2018\n
+ - Estimativa	829 494 hab. (26º)\n
+ - Densidade	5,81 hab./km² (22º)\n\n
+Economia	2016\n
+ - PIB	R$ 16.968 bilhões (25º)\n
+ - PIB per capita	R$ 13.105,24 (15º)\n\n
+Indicadores	2010/2015\n
+ - Esper. de vida (2016)	73,8 anos (13º)\n
+ - Mort. infantil (2015)	23,5‰ nasc. (1º)\n
+ - Alfabetização (2010)	92,1% (12º)\n
+ - IDH (2014)	0,747 (12º) – elevado \n\n
+Fuso horário	UTC−03:00\n
+Clima	equatorial Af\n
+Cód. ISO 3166-2	BR-AP\n\n
+Site governamental	http://www.amapa.gov.br/ \nhttp://www.ap.gov.br/ \nhttp://www.amapa.gov.br/
+
+    </string>
+
+    <string name="bahia_detalhes">
+        Lema: Per Ardua Surgo  \n
+"Pela dificuldade, venço"	\n
+Gentílico: baiano(a)	\n\n
+Localização	\n
+ - Região	Nordeste\n
+ - Estados limítrofes	Minas Gerais (S, SO, e SE), Goiás (O e SO), Tocantins (O e NO), Piauí(N e NO), Pernambuco (N), Alagoas (NE), Sergipe(NE) e Espírito Santo (SE)\n
+ - Regiões geográficas intermediárias	\n
+ - Regiões geográficas imediatas	\n
+ - Municípios	\n\n
+Capital	Salvador\n\n
+Área\n
+ - Total	564 733,177 km² (5º) \n\n
+População	\n
+ - Estimativa	14 812 617 hab. (4º)\n
+ - Densidade	26,23 hab./km² (15º)\n\n
+Economia	2015\n
+ - PIB	R$ 245 024 862 (7º)\n
+ - PIB per capita	R$ 16 115,45 (22º)\n\n
+Indicadores	2010/2015\n
+ - Esper. de vida (2015)	73,2 anos (17º)\n
+ - Mort. infantil (2015)	18,1‰ nasc. (7º)\n
+ - Alfabetização (2010)	84,6% (19º)\n
+ - IDH (2010)	0,660 (22º) – médio \n\n
+Fuso horário	UTC−03:00\n
+Clima	Equatorial, tropical com estação seca e semiárido[9] Af, As, Aw, BSh\n
+Cód. ISO 3166-2	BR-BA\n
+Site governamental	http://www.ba.gov.br/\n
+
+    </string>
+
+    <string name="ceara_detalhes">
+        Lema: Terra da Luz	\n
+Gentílico: cearense	\n\n
+Localização	\n
+ - Região	Nordeste\n
+ - Estados limítrofes	Piauí, Rio Grande do Norte, Paraíba e Pernambuco\n
+ - Regiões geográficas intermediárias	\n
+ - Regiões geográficas imediatas	\n
+ - Municípios	\n\n
+Capital	 Fortaleza\n\n
+Área	\n
+ - Total	148 920 km² (17º) \n\n
+População	\n
+ - Estimativa	9 075 649 hab. (8º)\n
+ - Censo 2010	8 452 381 hab.\n
+ - Densidade	60,94 hab./km² (11º)\n\n
+Economia	2016\n
+ - PIB	R$ 138,379 bilhões (11º)\n
+ - PIB per capita	R$ 15.437,75 (23º)\n\n
+Indicadores	2010/2015\n
+ - Esper. de vida (2015)	73,6 anos (14º)\n
+ - Mort. infantil (2015)	15,1‰ nasc. (17º)\n
+ - Alfabetização (2010)	82,8% (22º)\n
+ - IDH (2010)	0,682 (17º) – médio \n\n
+Fuso horário	UTC−03:00\n
+Clima	Tropical e semiárido As, Bsh\n
+Cód. ISO 3166-2	BR-CE\n\n
+Site governamental	http://www.ceara.gov.br/\n
+
+    </string>
+
+    <string name="distrito_federal_detalhes">
+        Lema: VENTVRIS VENTIS	\n
+(Aos Ventos Vindouros)	\n
+Gentílico: brasiliense ou candango\n\n
+Localização	\n
+ - Região	Centro-Oeste\n
+ - Estados limítrofes	Goiás (S, O, N e L) e Minas Gerais (SE)\n
+ - Regiões geográficas intermediárias	\n
+ - Regiões geográficas imediatas	\n
+ - Regiões administrativas (RAs)\n\n
+Sede do governo	Brasília\n\n
+        Área\n
+ - Total	5 779,999 km² (27º) \n\n
+População	\n
+ - Estimativa	2 974 703 hab. (20º)\n
+ - Censo 2010	2 562 963 hab.\n
+ - Densidade	514,65 hab./km² (1º)\n\n
+Economia	\n
+ - PIB	R$ 149 906 000 bilhões (8º)\n
+ - PIB per capita	R$ 58 489 (1º)\n\n
+Indicadores	2010/2015\n
+ - Esper. de vida (2015)	77,8 anos (3º)\n
+ - Mort. infantil (2015)	10,8‰ nasc. (22º)\n
+ - Alfabetização (2010)	96,7% (1º)\n
+ - IDH (2010)	0,824 (1º) – muito elevado\n\n
+Fuso horário	UTC−03:00\n
+Clima	tropical Aw\n
+Cód. ISO 3166-2	BR-DF\n\n
+Site governamental	http://www.df.gov.br/\n
+
+    </string>
+
+    <string name="espirito_santo_detalhes">
+        Lema: Trabalha e Confia\n
+Gentílico: capixaba, espírito-santense	\n\n
+Localização	\n
+ - Região	Sudeste\n
+ - Estados limítrofes	Bahia (a nordeste), Minas Gerais (a oeste) e Rio de Janeiro (sul)\n
+ - Regiões geográficas intermediárias	\n
+ - Regiões geográficas imediatas	\n
+ - Municípios	\n\n
+Capital	 Vitória\n\n
+Área	\n
+ - Total	46 095,583 km² (23º) \n\n
+População	\n
+ - Estimativa	3 973 697 hab. (15º)\n
+ - Densidade	86,21 hab./km² (7º)\n\n
+Economia	\n
+ - PIB	R$ 128.784 bilhões (11º)\n
+ - PIB per capita	R$ 33.148,56 (5º)\n\n
+Indicadores	2010/2015\n
+ - Esper. de vida (2015)	77,9 anos (2º)\n
+ - Mort. infantil (2015)	9,2‰ nasc. (27º)\n
+ - Alfabetização (2010)	92,5% (9º)\n
+ - IDH (2010)	0,740 (7º) – elevado \n\n
+Fuso horário	UTC−03:00\n
+Clima	tropical de altitude, Tropical Cwa, Cwb, Aw\n
+Cód. ISO 3166-2	BR-ES\n\n
+Site governamental	http://www.es.gov.br\n
+
+
+    </string>
+
+    <string name="goias_detalhes">
+        Lema: Terra Querida, fruto da vida \n
+Gentílico: goiano	\n\n
+Localização	\n
+ - Região	Centro-Oeste\n
+ - Estados limítrofes	Mato Grosso do Sul (SO), Mato Grosso (O), Tocantins(N), Bahia (NE), Minas Gerais (L, SE e S) e Distrito Federal (L)\n
+ - Regiões geográficas intermediárias	\n
+ - Regiões geográficas imediatas	\n
+ - Municípios	\n\n
+Capital	 Goiânia\n\n
+Área	\n
+ - Total	340 111,783 km² (7º) \n\n
+População	\n
+ - Estimativa	6 921 161 hab. (12º)\n
+ - Densidade	20,35 hab./km² (17º)\n\n
+Economia	2014\n
+ - PIB	R$ 75.015.000 (16º)\n
+ - PIB per capita	R$ 12.516.22 (13º)\n\n
+Indicadores	2010/2015
+ - Esper. de vida (2015)	71,0 anos (11º)\n
+ - Mort. infantil (2015)	19,3‰ nasc. (19º)\n
+ - Alfabetização (2010)	82,7% (10º)\n
+ - IDH (2010)	0,735 (11º) – elevado \n\n
+Fuso horário	UTC−03:00\n
+Clima	tropical e tropical de altitude [[Classificação climática de Köppen-Geiger|]]\n
+Cód. ISO 3166-2	BR-GO\n\n
+Site governamental	http://www.goias.gov.br/\n
+
+    </string>
+
+    <string name="mato_grosso_detalhes">
+    Lema: Virtute Plusquam Auro	\n
+(traduzido do latim, significa: "Pela virtude mais do que pelo ouro")\n\n
+Gentílico: Mato-grossense	\n\n
+        Localização	\n
+ - Região	Centro-Oeste\n
+ - Estados limítrofes	Amazonas, Pará, (N); Tocantins, Goiás (L); Mato Grosso do Sul (S); Rondônia e Bolívia (O),\n
+ - Regiões geográficas intermediárias	\n
+ - Regiões geográficas imediatas	\n
+ - Municípios	\n\n
+Capital	Cuiabá\n\n
+Área	\n
+ - Total	903 378,292 km² (3º) \n\n
+População	\n
+ - Estimativa	3 441 998 hab. (17º)\n
+ - Densidade	3,81 hab./km² (25º)\n\n
+Economia	\n
+ - PIB	R$ 123,834 bilhões  (13º)\n
+ - PIB per capita	R$ 37,462 mil (4º)\n\n
+Indicadores	2010/2015\n
+ - Esper. de vida (2015)	74,0 anos (12º)\n
+ - Mort. infantil (2015)	17,3‰ nasc. (10º)\n
+ - Alfabetização (2010)	92,2% (11º)\n
+ - IDH (2010)	0,725 (11º) – elevado \n\n
+Fuso horário	UTC−04:00\n
+Clima	Equatorial e tropical Am, Aw\n
+Cód. ISO 3166-2	BR-MT\n\n
+Site governamental	http://www.mt.gov.br/\n
+</string>
+
+    <string name="maranhao_detalhes">
+Gentílico: Maranhense	\n\n
+Localização	\n
+ - Região	Nordeste\n
+ - Estados limítrofes	Piauí (leste), Tocantins(sudoeste) e Pará (oeste)\n
+ - Regiões geográficas intermediárias	\n
+ - Regiões geográficas imediatas	\n
+ - Municípios	\n\n
+Capital	 São Luís\n\n
+Área	\n
+ - Total	331 937,450 km² (8º) \n\n
+População	\n
+ - Estimativa	7 035 055 hab. (10º)\n
+ - Densidade	21,19 hab./km² (16º)\n\n
+Economia	2014\n
+ - PIB	R$ 76,842 bilhões (17º)\n
+ - PIB per capita	R$ 11.216,37 (27º)\n\n
+Indicadores	2010/2015\n
+ - Esper. de vida (2015)	70,3 anos (27º)\n
+ - Mort. infantil (2015)	22,4‰ nasc. (2º)\n
+ - Alfabetização (2010)	80,7% (24º)\n
+ - IDH (2014)	0,678 (26º) – médio\n\n
+Fuso horário	UTC−03:00\n
+Clima	tropical Af/Aw\n
+Cód. ISO 3166-2	BR-MA\n\n
+Site governamental	http://www.ma.gov.br/
+
+    </string>
+
+    <string name="mato_grosso_do_sul_detalhes">
+        Gentílico: sul-mato-grossense, mato-grossense-do-sul\n\n
+Localização	\n
+ - Região	Centro-Oeste\n
+ - Estados limítrofes	Bolívia (NO), Paraguai(SO), Goiás (NE), Minas Gerais (L), Mato Grosso(N), Paraná (S) e São Paulo (SE)\n
+ - Regiões geográficas intermediárias	\n
+ - Regiões geográficas imediatas	\n
+ - Municípios	\n\n
+Capital	 Campo Grande\n\n
+Área	\n
+ - Total	357 145,532 km² (6º) \n\n
+População	\n
+ - Estimativa	2 748 023 hab. (21º)\n
+ - Densidade	7,69 hab./km² (19º)\n\n
+Economia	\n
+ - PIB	R$ 78.950.000 (16º)\n
+ - PIB per capita	R$ 29.778,57 (9º)\n\n
+Indicadores	2010/2015\n
+ - Esper. de vida (2015)	75,3 anos (10º)\n
+ - Mort. infantil (2015)	14,5‰ nasc. (18º)\n
+ - Alfabetização (2010)	93,0% (7º)\n
+ - IDH (2010)	0,729 (10º) – elevado\n\n
+Fuso horário	UTC−04:00\n
+Clima	Subtropical, tropical de altitude e tropical Cfa, Cwa, Aw\n
+Cód. ISO 3166-2	BR-MS\n\n
+Site governamental	http://www.ms.gov.br/\n
+
+    </string>
+
+    <string name="minas_gerais_detalhes">
+        Lema: LIBERTAS QUÆ SERA TAMEN	\n
+(Liberdade ainda que tardia)	\n\n
+Gentílico: mineiro	\n\n
+Localização	\n
+ - Região	Sudeste\n
+ - Estados limítrofes	São Paulo (S e SO), Mato Grosso do Sul (O), Goiás e Distrito Federal (NO), Bahia (N e NE), Espírito Santo (L) e Rio de Janeiro(SE)\n
+ - Regiões geográficas intermediárias	\n
+ - Regiões geográficas imediatas	\n
+ - Municípios	\n\n
+Capital	 Belo Horizonte\n\n
+Área	\n
+ - Total	586 522,122 km² (4º) \n\n
+População	\n
+ - Estimativa	21 119 536 hab. (2º)\n
+ - Densidade	36,01 hab./km² (14º)\n\n
+Economia	2014\n
+ - PIB	R$ 516,083 bilhões (3º)\n
+ - PIB per capita	R$ 17 931 (10º)\n\n
+Indicadores	2010/2015\n
+ - Esper. de vida (2015)	77,0 anos (6º)\n
+ - Mort. infantil (2015)	11,4‰ nasc. (21º)\n
+ - Alfabetização (2010)	92,3% (10º)\n
+ - IDH (2010)	0,731 (9º) – elevado \n\n
+Fuso horário	UTC−03:00\n
+Clima	Tropical e tropical de altitude Aw, Cwa, Cwb\n
+Cód. ISO 3166-2	BR-MG\n\n
+Site governamental	http://www.mg.gov.br/\n
+
+    </string>
+
+    <string name="para_detalhes">
+        Gentílico: paraense\n\n
+Localização\n
+ - Região	Norte\n
+ - Estados limítrofes	Amazonas (O), Mato Grosso (S), Tocantins(SO), Maranhão (L), Amapá, Roraima,Guiana e Suriname (N).\n
+ - Regiões geográficas intermediárias\n
+ - Regiões geográficas imediatas\n
+ - Municípios\n\n
+Capital	 Belém\n\n
+Área\n
+ - Total	1 247 954,666 km² (2º) \n\n
+População\n
+ - Estimativa	8 513 497 hab. (9º)\n
+ - Densidade	6,82 hab./km² (21º)\n\n
+Economia	2015\n
+ - PIB	R$ 130,883 bilhões (11º)\n
+ - PIB per capita	R$ 16 009,98 (22º)\n\n
+Indicadores	2010/2015\n
+ - Esper. de vida (2015)	71,9 anos (21º)\n
+ - Mort. infantil (2015)	17,1‰ nasc. (11º)\n
+ - Alfabetização (2010)	88,8% (16º)\n
+ - IDH (2010)	0,646 (25º) – médio [6]\n\n
+Fuso horário	UTC−03:00\n
+Clima	equatorial Af\n
+Cód. ISO 3166-2	BR-PA\n\n
+Site governamental	http://www.pa.gov.br/\n
+
+    </string>
+
+    <string name="paraiba_detalhes">
+        Gentílico: paraibano\n\n
+Localização\n
+ - Região	Nordeste\n
+ - Estados limítrofes	Rio Grande do Norte (N), Pernambuco (S) e Ceará (O)\n
+ - Regiões geográficas intermediárias\n
+ - Regiões geográficas imediatas\n
+ - Municípios\n\n
+Capital	 João Pessoa\n\n
+Área\n
+ - Total	56 469,778 km² (21º) \n\n
+População\n
+ - Estimativa	3 996 496 hab. (13º)\n
+ - Densidade	70,77 hab./km² (8º)\n\n
+Economia	2011\n
+ - PIB	R$ 38.731.000.000 (19º)\n
+ - PIB per capita	R$ 9.348 (24º)\n\n
+Indicadores	2010/2015\n
+ - Esper. de vida (2015)	72,9 anos (19º)\n
+ - Mort. infantil (2015)	17,0‰ nasc. (13º)\n
+ - Alfabetização (2010)	79,8% (25º)\n
+ - IDH (2010)	0,658 (23º) – médio \n\n
+Fuso horário	UTC−03:00\n
+Clima	Tropical e semiárido Bsh\n
+Cód. ISO 3166-2	BR-PB\n\n
+Site governamental	http://www.paraiba.pb.gov.br/
+
+    </string>
+
+    <string name="parana_detalhes">
+        Gentílico: paranaense\n\n
+Localização\n
+ - Região	Sul\n
+ - Estados limítrofes	Mato Grosso do Sul (NO)\n
+	São Paulo (N e L)\n
+	Santa Catarina (S)\n
+ - Regiões geográficas intermediárias\n
+ - Regiões geográficas imediatas\n
+ - Municípios\n\n
+Capital	 Curitiba\n\n
+Área\n
+ - Total	199 307,922 km² (15º) \n\n
+População\n
+ - Estimativa	11 348 937 hab. (5º)\n
+ - Densidade	56,94 hab./km² (12º)\n\n
+Economia\n
+ - PIB	R$ 348.1 bilhões (5º)\n
+ - PIB per capita	R$ 31.411 (7º)\n\n
+Indicadores	2010/2015\n
+ - Esper. de vida (2015)	76,8 anos (7º)\n
+ - Mort. infantil (2015)	9,7‰ nasc. (25º)\n
+ - Alfabetização (2010)	94,2% (6º)\n
+ - IDH (2010)	0,749 (5º) – elevado\n\n
+Fuso horário	UTC−03:00\n
+Clima	subtropical Cfa/Cfb\n
+Cód. ISO 3166-2	BR-PR\n\n
+Site governamental	http://www.pr.gov.br\n
+
+    </string>
+
+    <string name="pernambuco_detalhes">
+        Gentílico: Pernambucano (a)\n\n
+Localização\n
+ - Região	Nordeste\n
+ - Estados limítrofes	Bahia, Piauí, Alagoas, Ceará e Paraíba\n
+ - Regiões geográficas intermediárias\n
+ - Regiões geográficas imediatas\n
+ - Municípios\n\n
+Capital	Recife\n\n
+Área\n
+ - Total	98 149,119 km² (19º) \n\n
+População\n
+ - Estimativa	9 496 294 hab. (7º)\n
+ - Densidade	96,75 hab./km² (6º)\n\n
+Economia	2014\n
+ - PIB	R$ 155,143 bilhões (10º)\n
+ - PIB per capita	R$ 16.722,05 (19º)\n\n
+Indicadores	2010/2015\n
+ - Esper. de vida (2015)	73,5 anos (16º)\n
+ - Mort. infantil (2015)	13,3‰ nasc. (19º)\n
+ - Alfabetização (2010)	83,3% (20º)\n
+ - IDH (2010)	0,673 (19º) – médio \n\n
+Fuso horário	UTC−3 e UTC−2\n
+Clima	Semiárido, semiárido muito quente, tropical de altitude e tropical úmidoBSh, BSsh, Cwa, As\n
+Cód. ISO 3166-2	BR-PE\n\n
+Site governamental	http://www.pe.gov.br/
+
+    </string>
+
+    <string name="piaui_detalhes">
+        Lema: Impavidum Ferient Ruinae\n
+(Ferido e impávido em meio às ruínas)\n
+Gentílico: piauiense\n\n
+Localização\n
+ - Região	Nordeste\n
+ - Estados limítrofes	Tocantins, Maranhão, Bahia, Ceará e Pernambuco\n
+ - Regiões geográficas intermediárias\n
+ - Regiões geográficas imediatas\n
+ - Municípios\n\n
+Capital	 Teresina\n\n
+Área\n
+ - Total	251 577,738 km² (11º)\n\n
+População\n
+ - Estimativa	3 264 531 hab. (19º)\n
+ - Densidade	12,98 hab./km² (18º)\n\n
+Economia	2014\n
+ - PIB	R$ 37,723 bilhões (21º)\n
+ - PIB per capita	R$ 11 808,08 (26º)\n\n
+Indicadores	2010/2015\n
+ - Esper. de vida (2015)	70,9 anos (26º)\n
+ - Mort. infantil (2015)	19,7‰ nasc. (5º)\n
+ - Alfabetização (2010)	78,9% (26º)\n
+ - IDH (2010)	0,646 (24º) – médio\n\n
+Fuso horário	UTC−03:00\n
+Clima	tropical e semiárido ()\n
+Cód. ISO 3166-2	BR-PI\n\n
+Site governamental	http://www.piaui.pi.gov.br/\n
+
+    </string>
+
+    <string name="rio_de_janeiro_detalhes">
+    Lema: RECTE REM PVBLICAM GERERE\n
+(traduzido do latim, significa: "Gerir a Coisa Pública com Retidão")\n
+Gentílico: fluminense\n\n
+Localização\n
+ - Região	Sudeste\n
+ - Estados limítrofes	Espírito Santo (nordeste), Minas Gerais (noroeste) e São Paulo (sudoeste)\n
+ - Regiões geográficas intermediárias\n
+ - Regiões geográficas imediatas\n
+ - Municípios\n
+Capital	 Rio de Janeiro\n\n
+Área\n
+ - Total	43 780,172 km² (24º)\n\n
+População\n
+ - Estimativa	16 718 956 hab. (3º)\n
+ - Densidade	381,88 hab./km² (2º)\n\n
+Economia\n
+ - PIB	R$ 626,320 bilhões[3] (2º)\n
+ - PIB per capita	R$ 31 064 (3º)\n\n
+Indicadores	2010/2015\n
+ - Esper. de vida (2015)	75,9 anos (8º)\n
+ - Mort. infantil (2015)	11,9‰ nasc. (20º)\n
+ - Alfabetização (2010)	95,9% (4º)\n
+ - IDH (2010)	0,761 (4º) – elevado \n\n
+Fuso horário	UTC−03:00\n
+Clima	tropical e tropical de altitude Aw, Cwa\n
+Cód. ISO 3166-2	BR-RJ\n\n
+Site governamental	http://www.rj.gov.br/\n
+</string>
+
+    <string name="rio_grande_do_norte_detalhes">
+    Gentílico: potiguar; norte-rio-grandense; rio-grandense-do-norte \n\n
+Localização\n
+ - Região	Nordeste\n
+ - Estados limítrofes	Paraíba e Ceará\n
+ - Regiões geográficas intermediárias\n
+ - Regiões geográficas imediatas\n
+ - Municípios\n\n
+Capital	 Natal\n\n
+Área\n
+ - Total	52 811,126 km² (22º) \n\n
+População\n
+ - Estimativa	3 479 010 hab. (16º)\n
+ - Densidade	65,88 hab./km² (10º)\n\n
+Economia	2011\n
+ - PIB	R$ 36.103.000.000 (18º)\n
+ - PIB per capita	R$ 11.286.99 (22º)\n\n
+Indicadores	2010/2015\n
+ - Esper. de vida (2015)	75,5 anos (9º)\n
+ - Mort. infantil (2015)	15,3‰ nasc. (16º)\n
+ - Alfabetização (2010)	82,6% (23º)\n
+ - IDH (2010)	0,684 (16º) – médio \n\n
+Fuso horário	UTC−03:00\n
+Clima	Tropical e semiárido BSh, As\n
+Cód. ISO 3166-2	BR-RN\n\n
+Site governamental	http://www.rn.gov.br/\n
+
+    </string>
+
+    <string name="rio_grande_do_sul_detalhes">
+    Lema: Liberdade, Igualdade, Humanidade\n
+Gentílico: gaúcho; sul-rio-grandense \n\n
+Localização\n
+ - Região	Sul\n
+ - Estados limítrofes	Santa Catarina (norte), Argentina (oeste) e Uruguai (sul)\n
+ - Regiões geográficas intermediárias\n
+ - Regiões geográficas imediatas\n
+ - Municípios\n\n
+Capital	 Porto Alegre\n\n
+Área\n
+ - Total	281 730,223 km² (9º)\n\n
+População\n
+ - Estimativa	11 329 605 hab. (5º)\n
+ - Censo 2010	10 693 929 hab.\n
+ - Densidade	40,21 hab./km² (13º)\n\n
+Economia\n
+ - PIB	R$ 357,816 bilhões[4] (4º)\n
+ - PIB per capita	R$ 31.927,16 (6º)\n\n
+Indicadores	2010/2015v
+ - Esper. de vida (2015)	77,5 anos (5º)\n
+ - Mort. infantil (2015)	9,9‰ nasc. (24º)\n
+ - Alfabetização (2010)	95,8% (5º)\n
+ - IDH (2010)	0,746 (6º) – elevado\n\n
+Fuso horário	UTC−03:00\n
+Clima	subtropical Cfa/Cfb\n
+Cód. ISO 3166-2	BR-RS\n\n
+Site governamental	http://www.rs.gov.br\n
+
+    </string>
+
+    <string name="rondonia_detalhes">
+        Gentílico: rondoniense ou rondoniano(a)\n\n
+Localização\n
+ - Região	Norte\n
+ - Estados limítrofes	Bolívia (S e O), Amazonas (N), Mato Grosso (L) e Acre N(O).\n
+ - Regiões geográficas intermediárias\n
+ - Regiões geográficas imediatas\n
+ - Municípios\n\n
+Capital	 Porto Velho\n\n
+Área\n
+ - Total	237 590,543 km² (13º) \n\n
+População\n
+ - Estimativa	1 787 279 hab. (23º)\n
+ - Densidade	7,52 hab./km² (19º)\n\n
+Economia	2014\n
+ - PIB	R$  34,031 bilhões (23º)\n
+ - PIB per capita	R$ 19.462,61 (14º)\n\n
+Indicadores	2010/2015\n
+ - Esper. de vida (2015)	71,1 anos (25º)\n
+ - Mort. infantil (2015)	20,4‰ nasc. (4º)\n
+ - Alfabetização (2010)	92,1% (13º)\n
+ - IDH (2010)	0,690 (15º) – médio \n
+Fuso horário	UTC−04:00\n
+Clima	Equatorial úmido Am\n
+Cód. ISO 3166-2	BR-RO\n\n
+Site governamental	http://www.rondonia.ro.gov.br/\n
+
+    </string>
+
+    <string name="roraima_detalhes">
+        Gentílico: roraimense\n\n
+Localização\n
+ - Região	Norte\n
+ - Estados limítrofes	Venezuela (N[1] e NE), Guiana(L), Pará (SE) e Amazonas (S e O)\n
+ - Regiões geográficas intermediárias\n
+ - Regiões geográficas imediatas\n
+ - Municípios\n\n
+Capital	 Boa Vista\n\n
+Área\n
+ - Total	224 300,506 km² (14º) \n\n
+População\n
+ - Estimativa	576 568 hab. (27º)\n
+ - Densidade	2,57 hab./km² (27º)\n\n
+Economia	2014\n
+ - PIB	R$  9.744.000 bilhões (27º)\n
+ - PIB per capita	R$ 19.608 (13º)\n\n
+Indicadores	2010/2015\n
+ - Esper. de vida (2015)	71,2 anos (24º)\n
+ - Mort. infantil (2015)	17,4‰ nasc. (9º)\n
+ - Alfabetização (2010)	90,3% (15º)\n
+ - IDH (2010)	0,707 (13º) – elevado \n\n
+Fuso horário	UTC−04:00\n
+Clima	Equatorial úmido Am, Aw\n
+Cód. ISO 3166-2	BR-RR\n\n
+Site governamental	http://www.portal.rr.gov.br/\n
+
+    </string>
+
+    <string name="santa_catarina_detalhes">
+        Gentílico: catarinense, barriga-verde\n\n
+Localização\n
+ - Região	Sul\n
+ - Estados limítrofes	Paraná (norte), Rio Grande do Sul (sul) e Argentina(oeste)\n
+ - Regiões geográficas intermediárias\n
+ - Regiões geográficas imediatas\n
+ - Municípios\n\n
+Capital	 Florianópolis \n
+	27°35′49"S 48°32′56"O\n\n
+Área\n
+ - Total	95 736,165 km² (20º) \n\n
+População\n
+ - Estimativa	6 910 553 hab. (11º)\n
+ - Densidade	72,18 hab./km² (8º)\n\n
+Economia	2013\n
+ - PIB	R$ 197 470 000 mil (6º)\n
+ - PIB per capita	R$ 29.354 (5º)\n\n
+Indicadores	2010/2015\n
+ - Esper. de vida (2015)	78,7 anos (1º)\n
+ - Mort. infantil (2015)	9,5‰ nasc. (26º)\n
+ - Alfabetização (2010)	96,1% (2º)\n
+ - IDH (2010)	0,774 (3º) – elevado \n\n
+Fuso horário	UTC−03:00\n
+Clima	subtropical Cfa/Cfb\n
+Cód. ISO 3166-2	BR-SC\n\n
+Site governamental	http://www.sc.gov.br/\n
+
+    </string>
+
+    <string name="sao_paulo_detalhes">
+        Lema: Pro Brasilia fiant eximia\n 
+"Pelo Brasil faça-se o melhor"\n\n
+Gentílico: paulista\n\n
+Localização\n
+ - Região	Sudeste\n
+ - Estados limítrofes	·Paraná (sul)\n
+	·Mato Grosso do Sul (oeste)\n
+	·Minas Gerais (norte, nordeste)\n
+	·Rio de Janeiro (leste)\n
+ - Regiões geográficas intermediárias\n
+ - Regiões geográficas imediatas\n
+ - Municípios\n
+Capital	 São Paulo\n\n
+Área\n
+ - Total	248 222,362 km² (12º) \n\n
+População\n
+ - Estimativa	45 538 936 hab. (1º)Estimativa Populacional IBGE/2018\n
+ - Censo 2010	41 262 199 hab.\n
+ - Densidade	183,46 hab./km² (3º)\n\n
+Economia	2014\n
+ - PIB	R$ 1.858 trilhão (1º)\n
+ - PIB per capita	R$ 42.198 (2º)\n\n
+Indicadores	2010/2015\n
+ - Esper. de vida (2015)	77,8 anos (4º)\n
+ - Mort. infantil (2015)	10,2‰ nasc. (23º)\n
+ - Alfabetização (2010)	95,9% (3º)\n
+ - IDH (2010)	0,783 (2º) – elevado \n\n
+Fuso horário	UTC−03:00\n
+Clima	Subtropical, tropical de altitudee tropical Cfa, Cfb, Cwa, Cwb, Aw\n
+Cód. ISO 3166-2	BR-SP\n\n
+Site governamental	http://www.saopaulo.sp.gov.br
+
+    </string>
+
+    <string name="sergipe_detalhes">
+        Lema: SUB LEGE LIBERTAS \n
+(traduzido do latim, significa: "Sob a Lei a Liberdade")\n
+Gentílico: sergipano ou sergipense\n\n
+Localização\n
+ - Região	Nordeste\n
+ - Estados limítrofes	Bahia e Alagoas\n
+ - Regiões geográficas intermediárias\n
+ - Regiões geográficas imediatas\n
+ - Municípios\n\n
+Capital	 Aracaju\n\n
+Área\n
+ - Total	21 915,116 km² (26º) \n\n
+População\n
+ - Estimativa	2 278 308 hab. (22º)\n
+ - Densidade	103,96 hab./km² (5º)\n\n
+Economia	2010\n
+ - PIB	R$ 37,472 bilhões (22º)\n
+ - PIB per capita	R$ 12 536 (17º)\n\n
+Indicadores	2010/2015\n
+ - Esper. de vida (2015)	72,4 anos (20º)\n
+ - Mort. infantil (2015)	17,0‰ nasc. (12º)\n
+ - Alfabetização (2010)	83,0% (21º)\n
+ - IDH (2010)	0,665 (20º) – médio \n\n
+Fuso horário	UTC−3\n
+Clima	Tropical As\n
+Cód. ISO 3166-2	BR-SE\n\n
+Site governamental	http://www.se.gov.br\n
+
+    </string>
+
+    <string name="tocantins_detalhes">
+        Lema: Co yvy ore retama \n
+"Este solo é a nossa terra" \n
+Gentílico: tocantinense\n\n
+Localização\n
+ - Região	Norte\n
+ - Estados limítrofes	Goiás (S), Mato Grosso (O e SO), Pará (O e NO), Maranhão (N, NE e L), Piauí (L) e Bahia (L e SE)\n
+ - Regiões geográficas intermediárias\n
+ - Regiões geográficas imediatas\n\n
+ - Municípios\n
+Capital	 Palmas\n\n
+Área\n
+ - Total	277 620,914 km² (10º)\n\n
+População\n
+ - Estimativa	1 550 194 hab. (24º)\n
+ - Densidade	5,58 hab./km² (23º)\n\n
+Economia	2016\n
+ - PIB	R$ 31.576 bilhões (24º)\n
+ - PIB per capita	R$ 20.598,73 (15º)\n\n
+Indicadores	2010/2016\n
+ - Esper. de vida (2016)	73,4 anos (18º)\n
+ - Mort. infantil (2016)	15,8‰ nasc. (14º)\n
+ - Alfabetização (2016)	89,6% (17º)\n
+ - IDH (2010)	0,699 (14º) – médio \n\n
+Fuso horário	UTC−03:00\n
+Clima	Tropical seco e tropical úmido Aw, Am\n
+Cód. ISO 3166-2	BR-TO\n\n
+Site governamental	http://portal.to.gov.br/\n
+
+    </string>
+    <string name="estudar_as_bandeiras">Estudar as Bandeiras</string>
+    <string name="iniciar_quiz">Iniciar Quiz</string>
+    <string name="title_activity_list_of_states2">Estados Brasileiros</string>
+    <string name="total_de_acertos">Total de Acertos</string>
+    <string name="total_de_erros">Total de Erros</string>
+    <string name="_0">0</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+    <string name="text_view">TEXT VIEW</string>
+    <string name="xxxx">XXXX</string>
 
 </resources>

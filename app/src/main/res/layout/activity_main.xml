@@ -1,40 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:orientation="vertical"
+
     android:layout_height="match_parent"
     android:gravity="center_vertical"
     tools:context="br.com.ddmsoftware.brazillianflags.MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
     <Button
-        android:layout_margin="3dp"
-        android:id="@+id/btnFlagStudies"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Estudar bandeiras"
-        android:background="@color/colorLightBlue"
-        tools:layout_editor_absoluteX="149dp"
-        tools:layout_editor_absoluteY="271dp" />
-
-    <Button
-        android:layout_margin="3dp"
         android:id="@+id/btnQuiz"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:drawableLeft="@drawable/ic_videogame_asset_white_48dp"
+        android:drawableStart="@drawable/ic_videogame_asset_white_48dp"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Testar conhecimento"
+        android:layout_height="100dp"
+        android:text="@string/iniciar_quiz"
         android:background="@color/colorLightBlue"
         tools:layout_editor_absoluteX="148dp"
         tools:layout_editor_absoluteY="319dp" />
+
+    <Button
+        android:id="@+id/btnFlagStudies"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:drawableLeft="@drawable/ic_import_contacts_whie_48dp"
+        android:drawableStart="@drawable/ic_import_contacts_whie_48dp"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="@string/estudar_as_bandeiras"
+        android:background="@color/colorGray"
+        tools:layout_editor_absoluteX="149dp"
+        tools:layout_editor_absoluteY="271dp" />
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adViewMain"
+        ads:adSize="BANNER"
+        android:layout_margin="6dp"
+        ads:adUnitId="@string/banner_ad_unit_TESTE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 
 </LinearLayout>

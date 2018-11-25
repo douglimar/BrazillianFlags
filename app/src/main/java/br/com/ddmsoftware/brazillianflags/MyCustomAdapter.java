@@ -1,9 +1,7 @@
 package br.com.ddmsoftware.brazillianflags;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
-import android.media.Image;
-import android.support.annotation.LayoutRes;
-import android.support.annotation.NonNull;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -17,7 +15,7 @@ import java.util.List;
  * Created by dmoraes on 19/10/2017.
  */
 
-public class MyCustomAdapter extends ArrayAdapter<String> {
+class MyCustomAdapter extends ArrayAdapter<String> {
     private final Context context;
     private final List<String> values;
 
@@ -33,11 +31,12 @@ public class MyCustomAdapter extends ArrayAdapter<String> {
 
         LayoutInflater inflater = (LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
 
+        @SuppressLint("ViewHolder")
         View rowView = inflater.inflate(R.layout.item_row, parent,false);
-        TextView textView = (TextView) rowView.findViewById(R.id.tvItemRow);
-        ImageView imageView =(ImageView) rowView.findViewById(R.id.imgImageRow);
+        TextView textView = rowView.findViewById(R.id.tvItemRow);
+        ImageView imageView = rowView.findViewById(R.id.imgImageRow);
 
-        textView.setText(values.get(position).toString());
+        textView.setText(values.get(position));
 
         if (textView.getText().equals("Acre")                    ) imageView.setImageResource(R.drawable.acre);
         else if (textView.getText().equals("Amapá")              ) imageView.setImageResource(R.drawable.amapa);
