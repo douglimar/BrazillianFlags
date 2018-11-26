@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:2:1-42:12
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:2:1-43:12
 MERGED from [com.android.support:design:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/bf5fc72c574db4c83f91eac9570264f4/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/83a15b6e69ed1baf86ab5629310d1792/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f83a927be3e399f7d208a6cf226bc56c/AndroidManifest.xml:17:1-22:12
@@ -46,25 +46,25 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/douglimar/.gradle/cach
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0d13059c06fcdf44ba3165757dbf8796/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7dac8301acf69701a660e69bde1fe15c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.1.aar/8af85d04a514d83d5a7586caf1779325/AndroidManifest.xml:2:1-9:12
-INJECTED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:2:1-43:12
 	package
 		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:3:5-49
 		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml
 		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:2:1-42:12
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:2:1-43:12
 		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:2:1-42:12
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:2:1-43:12
 		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:5:5-40:19
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:5:5-41:19
 MERGED from [com.android.support:design:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/bf5fc72c574db4c83f91eac9570264f4/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/bf5fc72c574db4c83f91eac9570264f4/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/270ccb9fe1417029a2bbf9d400712477/AndroidManifest.xml:22:5-20
@@ -93,56 +93,58 @@ MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] /home/douglim
 		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
 		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:8:9-41
+	android:fullBackupContent
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:12:9-59
 	android:roundIcon
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:9:9-45
 	android:icon
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:7:9-47
 	android:allowBackup
 		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:11:9-40
 meta-data#com.google.android.gms.ads.APPLICATION_ID
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:17:9-19:70
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:18:9-20:70
 	android:value
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:19:13-67
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:20:13-67
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:18:13-69
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:19:13-69
 activity#br.com.ddmsoftware.brazillianflags.MainActivity
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:21:9-29:20
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:22:9-30:20
 	android:screenOrientation
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:23:13-49
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:24:13-49
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:22:13-41
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:23:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:24:13-28:29
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:25:13-29:29
 action#android.intent.action.MAIN
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:25:17-69
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:26:17-69
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:25:25-66
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:26:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:27:17-77
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:28:17-77
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:27:27-74
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:28:27-74
 activity#br.com.ddmsoftware.brazillianflags.QuizActivity
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:30:9-32:52
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:31:9-33:52
 	android:screenOrientation
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:32:13-49
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:33:13-49
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:31:13-41
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:32:13-41
 activity#br.com.ddmsoftware.brazillianflags.DetailsActivity
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:33:9-35:52
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:34:9-36:52
 	android:screenOrientation
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:35:13-49
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:36:13-49
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:34:13-44
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:35:13-44
 activity#br.com.ddmsoftware.brazillianflags.ListOfStates2Activity
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:36:9-39:68
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:37:9-40:58
 	android:label
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:38:13-67
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:39:13-67
 	android:theme
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:39:13-56
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:40:13-56
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:37:13-50
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml:38:13-50
 uses-sdk
 INJECTED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/douglimar/workspace/AndroidStudioProjects/BrazillianFlags/app/src/main/AndroidManifest.xml
