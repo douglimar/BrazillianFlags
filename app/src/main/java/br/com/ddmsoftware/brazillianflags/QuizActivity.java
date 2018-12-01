@@ -66,6 +66,8 @@ public class QuizActivity extends AppCompatActivity{
 
     private void loadNextFlag(){
 
+        MainActivity.setmFirebaseAnalytics("4", "Load Next Flag");
+
         final String[] aEstados = new String[6];
         final int[] aOriginalIndexImage = new int[6];
 

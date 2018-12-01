@@ -28,7 +28,7 @@
                 android:layout_height="75dp"
                 android:layout_gravity="center_vertical"
                 android:layout_margin="5dp"
-                android:src="@mipmap/ic_launcher"
+                android:src="@mipmap/logotipo_square"
                 android:contentDescription="@string/todo" />
 
             <TextView

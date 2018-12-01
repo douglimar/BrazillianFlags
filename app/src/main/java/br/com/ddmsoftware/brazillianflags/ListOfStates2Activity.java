@@ -46,6 +46,9 @@ public class ListOfStates2Activity extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
 
+                MainActivity.setmFirebaseAnalytics("3", "Open Flag Item");
+
+
                 String item = adapterView.getItemAtPosition(i).toString();
 
                 loadDataFromClick(item);

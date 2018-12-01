@@ -152,7 +152,7 @@
         android:layout_height="0dp"
         ads:adSize="BANNER"
         android:layout_margin="6dp"
-        ads:adUnitId="@string/banner_ad_unit_TESTE"
+        ads:adUnitId="@string/banner_ad_unit_id"
         android:layout_weight="4" />
 
 </LinearLayout>

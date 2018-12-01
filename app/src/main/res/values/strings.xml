@@ -1,6 +1,6 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Quiz - Bandeiras Brasileiras</string>
-    <string name="banner_ad_unit_id">ca-app-pub-1098336821710456/3513447606</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1098336821710456/6033561783</string>
     <string name="banner_ad_unit_TESTE" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
     <string name="acre_text">Acre</string>
     <string name="alagoas_text">Alagoas</string>
@@ -72,7 +72,7 @@ Cód. ISO 3166-2	BR-AC\n
 Site governamental	http://www.ac.gov.br
 </string>
 
-    <string name="alagoas_detalhes">
+    <string name="alagoas_detalhes"><![CDATA[
         História\n\n
 Foi criada por meio da Lei Estadual nº 2.628, de 23 de setembro de 1963. O brasão simboliza as primeiras cidades alagoanas, Porto Calvo e Penedo, bem como suas riquezas agrícolas: a cana-de-açúcar e o algodão. As cores das faixas (vermelho, branco e azul), escolhidas por estarem presentes no brasão estadual, remetem à tricolore, simbolizando os ideais da Revolução Francesa: liberdade, igualdade e fraternidade.
 \n\n
@@ -81,7 +81,7 @@ Os escudos representativos das três vilas formadoras do Estado, as vilas de Ala
 \n
 Os três peixes tainhas postas em pala, isto é, uma por sobre a outra, representam as três principais e maiores lagoas da então povoação: a Lagoa Mundaú ou do Norte, a Lagoa Manguaba ou do Sul e a Lagoa de Jequiá, que fica isolada mais ao sul do estado próxima ao município de Barra de São Miguel. Representam igualmente uma das maiores riquezas da região: a pesca. Os ramalhetes verdes do brasão inserido na bandeira representam outras principais fontes de riquezas do estado: as culturas da cana-de-açúcar e do algodão.
 \n
-A estrela de prata de cinco pontas - posta no alto do escudo como timbre - é uma tradição da heráldica brasileira onde faz referência a uma das estrelas que estão no brasão e na bandeira do Brasil. Seu significado simbólico faz referência ao hino de Alagoas, demonstrando o estado como uma "estrela radiosa que reluz ao sorrir das manhãs...", e quer dizer também que Alagoas é uma das unidades da Federação Brasileira.
+A estrela de prata de cinco pontas - posta no alto do escudo como timbre - é uma tradição da heráldica brasileira onde faz referência a uma das estrelas que estão no brasão e na bandeira do Brasil. Seu significado simbólico faz referência ao hino de Alagoas, demonstrando o estado como uma "estrela radiosa que reluz ao sorrir das manhãs…", e quer dizer também que Alagoas é uma das unidades da Federação Brasileira.
 \n\n\n
 Lema: Ad bonum et prosperitatem	\n
 "Para o bem e para a prosperidade"	\n
@@ -112,7 +112,7 @@ Clima	Tropical As	\n
 Cód. ISO 3166-2	BR-AL	\n
 Site governamental	http://www.governo.al.gov.br/
 
-    </string>
+    ]]></string>
 
     <string name="amazonas_detalhes">
 
@@ -512,7 +512,7 @@ Site governamental	http://www.ms.gov.br/\n
 
     </string>
 
-    <string name="minas_gerais_detalhes">
+    <string name="minas_gerais_detalhes"><![CDATA[
 
         História
         \n\n
@@ -524,7 +524,7 @@ Descrição vexilológica e lema
         \n\n
 Há controvérsias a respeito da cor original do triângulo, pois alguns historiadores julgam ser verde originalmente. O vermelho, contudo, acabou sendo adotado como símbolo-mor das revoluções. O triângulo equilátero simboliza a Santíssima Trindade.
 \n\n
-O lema LIBERTAS QUÆ SERA TAMEN. (muitas vezes traduzido como "Liberdade ainda que tardia") teria sido cunhado pelo inconfidente Alvarenga Peixoto a partir de um verso das Bucólicas (1.27) do poeta latino Virgílio, em que se lê Libertas quae sera tamen respexit inertem, que pode ser traduzido por "Liberdade, a qual, embora tarde, (me) viu inerte". Há quem sustente, contudo, que a tradução correta do dístico seria "Liberdade ainda que tardia, todavia...", o que não faz sentido[3]. Para esses, a frase correta a ser usada na bandeira para ter o sentido desejado deveria ser Libertas quae sera[4],
+O lema LIBERTAS QUÆ SERA TAMEN. (muitas vezes traduzido como "Liberdade ainda que tardia") teria sido cunhado pelo inconfidente Alvarenga Peixoto a partir de um verso das Bucólicas (1.27) do poeta latino Virgílio, em que se lê Libertas quae sera tamen respexit inertem, que pode ser traduzido por "Liberdade, a qual, embora tarde, (me) viu inerte". Há quem sustente, contudo, que a tradução correta do dístico seria "Liberdade ainda que tardia, todavia…", o que não faz sentido[3]. Para esses, a frase correta a ser usada na bandeira para ter o sentido desejado deveria ser Libertas quae sera[4],
         \n\n
         Lema: LIBERTAS QUÆ SERA TAMEN	\n
 (Liberdade ainda que tardia)	\n\n
@@ -554,7 +554,7 @@ Clima	Tropical e tropical de altitude Aw, Cwa, Cwb\n
 Cód. ISO 3166-2	BR-MG\n\n
 Site governamental	http://www.mg.gov.br/\n
 
-    </string>
+    ]]></string>
 
     <string name="para_detalhes">
 
@@ -603,7 +603,7 @@ Site governamental	http://www.pa.gov.br/\n
 
     </string>
 
-    <string name="paraiba_detalhes">
+    <string name="paraiba_detalhes" tools:ignore="Typos">
         História
         \n\n
 Conhecida como bandeira do Nego, foi adotada em 25 de setembro de 1930, por meio da Lei Estadual n.º 704. Quando ela entrou em vigor não havia bandeira na Paraíba, uma vez que a antiga bandeira do estado vigorou durante quinze anos, de 1907 a 1922.
@@ -782,7 +782,7 @@ Site governamental	http://www.piaui.pi.gov.br/\n
 
     </string>
 
-    <string name="rio_de_janeiro_detalhes">
+    <string name="rio_de_janeiro_detalhes" tools:ignore="Typos">
 
         História
         \n\n
@@ -860,7 +860,7 @@ Site governamental	http://www.rn.gov.br/\n
 
     </string>
 
-    <string name="rio_grande_do_sul_detalhes">
+    <string name="rio_grande_do_sul_detalhes" tools:ignore="Typos">
         História
         \n\n
 Fonte literárias indicam que é originária da época da Guerra dos Farrapos, em 1835, mas sem o brasão de armas até então. Sua autoria é controversa; alguns apontam Bernardo Pires, enquanto outros apontam José Mariano de Mattos. Algumas das características da bandeira do Rio Grande do Sul são de evidente inspiração maçônica, como as duas colunas que ladeiam o losango invertido são idênticas às encontradas em todos os Templos maçônicos. O lema da bandeira é Liberdade, Igualdade e Humanidade
@@ -910,7 +910,7 @@ Site governamental	http://www.rs.gov.br\n
 
     </string>
 
-    <string name="rondonia_detalhes">
+    <string name="rondonia_detalhes" tools:ignore="Typos">
         História \n\n
 
 Foi instituída pelo decreto-lei nº 7, de 31 de dezembro de 1981.[1][2].
@@ -991,7 +991,7 @@ Site governamental	http://www.portal.rr.gov.br/\n
 
     </string>
 
-    <string name="santa_catarina_detalhes">
+    <string name="santa_catarina_detalhes" tools:ignore="Typos">
 
         História
         \n\n
@@ -1039,7 +1039,7 @@ Site governamental	http://www.sc.gov.br/\n
 
     </string>
 
-    <string name="sao_paulo_detalhes">
+    <string name="sao_paulo_detalhes"><![CDATA[
 
         Autoria
         \n\n
@@ -1049,7 +1049,7 @@ Idealizada pelo filólogo e escritor Júlio Ribeiro em 1888, tinha como objetivo
         \n\n
 Nos últimos anos do Império do Brasil, vários propagandistas da República criaram projetos de bandeira nacional para serem adotados com o advento do novo regime. Para muitos deles, era preciso destruir todos os símbolos que pudessem lembrar o Império e as instituições monárquicas.[3] Nesse contexto, o escritor e jornalista republicano Júlio Ribeiro, fundador e redator do jornal "O Rebate", publicou em sua primeira edição de 16 de julho de 1888, uma série de críticas ao estandarte Imperial. Nele, também expõe a sua própria proposta para bandeira republicana. Segundo ele, seu projeto:
 \n\n
-	... simboliza de modo perfeito a gênese do povo brasileiro, as três raças de que ela se compõe - branca, preta e vermelha. As quatro estrelas a rodear um globo, em que se vê o perfil geográfico do país, representam o Cruzeiro do Sul, a constelação indicadora da nossa latitude astral (...) Assim, pois, erga-se firme, palpite glorioso o Alvo-Negro Pendão do Cruzeiro!
+	… simboliza de modo perfeito a gênese do povo brasileiro, as três raças de que ela se compõe - branca, preta e vermelha. As quatro estrelas a rodear um globo, em que se vê o perfil geográfico do país, representam o Cruzeiro do Sul, a constelação indicadora da nossa latitude astral (...) Assim, pois, erga-se firme, palpite glorioso o Alvo-Negro Pendão do Cruzeiro!
 
         \n\n
         A bandeira descrita por Júlio Ribeiro foi hasteada no palácio do governo de São Paulo em 15 de novembro de 1889, sendo utilizada nos primeiros dias do novo regime.[3]
@@ -1105,7 +1105,7 @@ Clima	Subtropical, tropical de altitudee tropical Cfa, Cfb, Cwa, Cwb, Aw\n
 Cód. ISO 3166-2	BR-SP\n\n
 Site governamental	http://www.saopaulo.sp.gov.br
 
-    </string>
+    ]]></string>
 
     <string name="sergipe_detalhes">
         História
@@ -1193,5 +1193,9 @@ Site governamental	http://portal.to.gov.br/\n
     <string name="button">Button</string>
     <string name="text_view">TEXT VIEW</string>
     <string name="xxxx">XXXX</string>
+
+    <string name="title_activity_bootsplash">Quiz - Bandeiras Brasileiras</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 
 </resources>

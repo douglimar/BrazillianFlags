@@ -9,21 +9,28 @@ import android.widget.Button;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
+import com.google.firebase.analytics.FirebaseAnalytics;
 
 public class MainActivity extends AppCompatActivity {
 
-
+    private static FirebaseAnalytics mFirebaseAnalytics;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        // Obtain the FirebaseAnalytics instance.
+        mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
+
         Button btnFlagStudies = findViewById(R.id.btnFlagStudies);
 
         btnFlagStudies.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+
+                setmFirebaseAnalytics("1", "Study Flags");
+
                 Intent intent = new Intent(MainActivity.this, ListOfStates2Activity.class);
                 startActivity(intent);
             }
@@ -34,6 +41,8 @@ public class MainActivity extends AppCompatActivity {
         btnQuiz.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                setmFirebaseAnalytics("2", "Start Quiz");
+
                 Intent intent = new Intent(MainActivity.this, QuizActivity.class);
                 startActivity(intent);
             }
@@ -59,5 +68,15 @@ public class MainActivity extends AppCompatActivity {
             finish(); // close this activity and return to preview activity (if there is any)
         }
         return super.onOptionsItemSelected(item);
+    }
+
+    public static void setmFirebaseAnalytics(String logId, String logName) {
+
+        Bundle bundle = new Bundle();
+        bundle.putString(FirebaseAnalytics.Param.ITEM_ID, logId);
+        bundle.putString(FirebaseAnalytics.Param.ITEM_NAME, logName);
+        bundle.putString(FirebaseAnalytics.Param.CONTENT_TYPE, "image");
+        mFirebaseAnalytics.logEvent(FirebaseAnalytics.Event.SELECT_CONTENT, bundle);
+
     }
 }

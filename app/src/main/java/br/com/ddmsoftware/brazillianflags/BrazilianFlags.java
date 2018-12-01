@@ -1,5 +1,6 @@
 package br.com.ddmsoftware.brazillianflags;
 
+import android.annotation.SuppressLint;
 import android.app.Application;
 
 import java.util.ArrayList;
@@ -9,6 +10,7 @@ import java.util.List;
  * Created by dmoraes on 10/10/2017.
  */
 
+@SuppressLint("Registered")
 class BrazilianFlags extends Application {
 
     public String estado;

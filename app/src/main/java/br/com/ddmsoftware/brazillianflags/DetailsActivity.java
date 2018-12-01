@@ -3,7 +3,6 @@ package br.com.ddmsoftware.brazillianflags;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.text.Html;
 import android.view.MenuItem;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -18,6 +17,7 @@ public class DetailsActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_details);
 
+        MainActivity.setmFirebaseAnalytics("5", "load Flag Details");
         Intent intent = getIntent();
 
         final String strDetalhes = intent.getStringExtra("DETALHES");
